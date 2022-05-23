@@ -1,0 +1,16 @@
+{
+  "name": "@ethereum-artifacts/weth9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethereum-Artifacts/WETH9.git"
+  },
+  "author": "Kieran Mesquita <mesquka@proton.me>",
+  "license": "(MIT OR Apache-2.0 OR GPL-1.0-or-later)",
+  "bugs": {
+    "url": "https://github.com/Ethereum-Artifacts/WETH9/issues"
+  },
+  "homepage": "https://github.com/Ethereum-Artifacts/WETH9#readme"
+}
